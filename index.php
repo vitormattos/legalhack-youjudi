@@ -1,1 +1,3 @@
-<a href="login">Login</a>
+<script>
+window.location="login/"
+</script>
